@@ -13,10 +13,6 @@ Toby Ladislas
 Elise Poplawski  
 Karlie Romas
 
-**Clients:**  
-Deván Gamáble   
-Kristán
-
 SmorgasBoard is a site where board-game lovers can get the lowdown on all
 of their favorite games.
 
